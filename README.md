@@ -15,4 +15,4 @@ letsencrypt.exe --renew --forcerenewal
 
 ```
 
-
+Agora basta agendar no Agendador do Windows
