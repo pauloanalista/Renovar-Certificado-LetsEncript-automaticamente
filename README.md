@@ -16,3 +16,11 @@ letsencrypt.exe --renew --forcerenewal
 ```
 
 Agora basta agendar no Agendador do Windows
+
+# VEJA TAMBÉM
+## Cursos baratos!
+- [Meus cursos](https://olha.la/udemy)
+
+## Novidades, cupons de descontos e cursos gratuitos
+https://olha.la/ilovecode-receber-cupons-novidades
+
