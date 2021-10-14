@@ -25,6 +25,8 @@ IIS Crypto é uma ferramenta gratuita que dá aos administradores a capacidade d
 
 https://www.nartac.com/Products/IISCrypto/Download
 
+### Outra ferramenta gratuita para gerenciar certificados
+https://certifytheweb.com/
 
 # VEJA TAMBÉM
 ## Grupo de Estudo no Telegram
